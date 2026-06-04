@@ -119,7 +119,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 
 ### Core Activity & Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=devkurtaxcel&theme=tokyonight" alt="Kurt's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=devkurtaxcel&theme=tokyonight&cache_seconds=1800" alt="Kurt's GitHub Streak" />
 </p>
 
 <p align="center">
