@@ -119,7 +119,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkurtaxcel&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=devkurtaxcel&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 ## [Achievements & Milestones](https://blog.kurtaxcel.com/)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devkurtaxcel&theme=tokyonight&column=7" alt="Kurt's Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=devkurtaxcel&theme=tokyonight&column=7" alt="Kurt's Trophies" />
 </p>
 
 ### Cloud & Infrastructure
