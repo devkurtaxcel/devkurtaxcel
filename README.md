@@ -145,3 +145,14 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 
 ---
 
+## Let's Connect!
+
+- **LinkedIn:** [Kurt Axcel Peñano](https://www.linkedin.com/in/pe%C3%B1anokurtaxcel/)
+- **Facebook:** [Kurt Axcel](https://facebook.com/itzkurt.axcel)
+- **Instagram:** [@devkurtaxcel](https://www.instagram.com/devkurtaxcel/)
+- **GitHub:** [@devkurtaxcel](https://github.com/devkurtaxcel)
+
+---
+<p align="center">
+  <i>"Combining deterministic performance with creative visuals."</i>
+</p>
