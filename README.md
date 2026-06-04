@@ -98,3 +98,21 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 ---
 
 ## GitHub Metrics
+
+### Snake Contribution Game
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devkurtaxcel/devkurtaxcel/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devkurtaxcel/devkurtaxcel/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Grid" src="https://raw.githubusercontent.com/devkurtaxcel/devkurtaxcel/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### 3D Contribution Calendar
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devkurtaxcel/devkurtaxcel/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+### Core Activity & Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkurtaxcel&theme=tokyonight" alt="Kurt's GitHub Streak" />
