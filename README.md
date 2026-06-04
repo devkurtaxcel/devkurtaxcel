@@ -137,3 +137,11 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 *   **[Google Cloud Study Jam Winner](https://blog.kurtaxcel.com/blog/cloud-study-jam-certificates)** — Recognized for designing a winner-grade *Scalable Event Ticketing System*; learned compute resource optimizations, systems architecture, and observability paths on GCP.
 *   **[AWS Cloud Practitioner (CLF-C02)](https://blog.kurtaxcel.com/blog/aws-cloud-practitioner-datacamp)** — Learned global infrastructure, EC2/S3/RDS provisioning, security best practices (IAM), cost modeling, and the shared responsibility model.
 *   **[Microsoft Azure Fundamentals (AZ-900)](https://blog.kurtaxcel.com/blog/azure-fundamentals)** — Completed the cloud trifecta, focusing on Microsoft Azure architecture, serverless/container systems, cost management, and resource governance.
+
+### AI, DevOps & Hackathons
+*   **[AI Fundamentals](https://blog.kurtaxcel.com/blog/ai-fundamentals-datacamp)** — Attained advanced-level track completion covering Machine Learning concepts, Transformer LLM architectures, RLHF alignment, generative models, and ethical AI governance.
+*   **[GitHub Foundations](https://blog.kurtaxcel.com/blog/github-foundations)** — Certified in Git version control branching/merging strategies, complex conflict resolution, and enterprise repository workflows.
+*   **[CodeKada Hackathon 2026](https://blog.kurtaxcel.com/blog/devkada-iwas-scam-hackathon)** — Built **Iwas Scam** in 7 days as part of Team Trio-Force, delivering an AI-driven smishing and screenshot threat scanning mobile app.
+
+---
+
