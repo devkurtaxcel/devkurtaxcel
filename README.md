@@ -72,3 +72,29 @@ An interactive system built to ease the daily commutes of students and locals by
 ### Iwas Scam
 > **AI-Powered Mobile Scam Detection App — Built for the DevKada Hackathon**
 
+A trust-centric mobile monorepo aimed at shielding users from phishing and social engineering vectors using hybrid detection.
+- **Resources:** [Case Study](https://www.kurtaxcel.com/projects/iwasscam) • [Hackathon Documentation](https://blog.kurtaxcel.com/blog/devkada-iwas-scam-hackathon)
+- **Key Features:** High-speed heuristic engine (regex patterns for urgency/phishing triggers), AI-powered message parser (GPT-4o-mini analyzing semantic triggers), unified status verdict dashboard (SAFE / SUSPICIOUS / DANGEROUS), and backend mock analysis fallback.
+- **Stack:** `React Native (Expo)` • `NativeWind v4` • `TanStack Query` • `Express.js` • `TypeScript` • `OpenAI API` • `Supabase`
+
+---
+
+### [BetterIndang LGU Starter Kit](https://betterindang.org/)
+> **Modern Government Website Template for Local Government Units in the Philippines**
+
+An accessible, fast, and multilingual starter kit template to bridge the digital gap for local municipalities.
+- **Key Features:** Full multilingual localization (English, Filipino, Cebuano), strict WCAG 2.1 accessibility compliance, YAML-based content system for non-technical admins, and robust built-in SEO optimizations.
+- **Stack:** `React` • `TypeScript` • `Vite` • `Tailwind CSS v4` • `i18next` • `react-helmet`
+
+---
+
+### [Asset — Personal Digital Portfolio](https://www.kurtaxcel.com/)
+> **High-Performance Portfolio & Brand Source of Truth**
+
+A state-of-the-art developer landing page engineered for zero-stutter navigation and unique interactive elements.
+- **Key Features:** **Nexus Automation Engine** (interactive data flow simulator using GSAP timelines), **Vault Security Shield** (reactive SVG security visualizer), and a canvas-based neural node background optimized with short-circuit O(n) proximity checks for smooth 60FPS rendering.
+- **Stack:** `Next.js 15 (App Router)` • `React 19` • `GSAP` • `Framer Motion` • `Tailwind CSS`
+
+---
+
+## GitHub Metrics
