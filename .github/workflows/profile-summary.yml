@@ -27,7 +27,7 @@ jobs:
 
       # 1. Generate the 3D contribution graph (SVGs saved in profile-3d-contrib/)
       - name: Generate 3D Contribution Graph
-        uses: yhypeac/github-profile-3d-contrib@v0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
