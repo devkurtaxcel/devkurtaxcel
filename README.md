@@ -115,7 +115,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 
 ### Core Activity & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkurtaxcel&theme=tokyonight" alt="Kurt's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=devkurtaxcel&theme=tokyonight" alt="Kurt's GitHub Streak" />
 </p>
 
 <p align="center">
