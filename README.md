@@ -43,3 +43,32 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## Featured Projects
+
+Here is a curated showcase of my engineering work, ranging from academic applications to advanced full-stack and mobile solutions.
+
+### [Project TLNTIK](https://tlntik.kurtaxcel.com/)
+> **Active Guide & Tourism Platform for the Nasugbu Trilogy (Mt. Talamitam, Mt. Lantik, & Mt. Apayang)**
+
+A highly secure, full-stack platform designed to connect hikers with local guides, featuring real-time tools and 3D terrain exploration.
+- **Key Features:** Premium glassmorphic interface, real-time "Online Hikers" lounge (Presence), live view counters, interactive 3D terrain maps (MapLibre GL + Esri World Imagery), guide booking scheduler, and downloadable verified hiker certificates.
+- **Security & Infrastructure:** A+ rated security implementation. Progressive rate-limiting, strict CSP, Row Level Security (RLS) policies, input sanitization, anti-debug hooks, and Upstash Redis caching for 10k+ requests/sec.
+- **Stack:** `Next.js 16 (App Router)` • `Tailwind CSS v4` • `Supabase (PostgreSQL + Auth + Realtime)` • `Redis` • `MapLibre GL` • `Sentry` • `PostHog` • `Vercel`
+
+---
+
+### [spot.ph (Enhanced)](https://github.com/devkurtaxcel/ITECH50B-SPOT.PH.git) & [spotph (Original)](https://www.facebook.com/share/p/1cH5rYQxG5/)
+> **Indang Terminal Public Transport Transparency Platform**
+
+An interactive system built to ease the daily commutes of students and locals by eliminating transport uncertainty.
+- **Enhanced Version:** Features a premium responsive glassmorphism interface built in partnership with co-developer **Kenji Buena**. Includes a real-time transport tracker (MapLibre GL + CARTO Voyager), automated digital fare calculator (PWD/student pricing), emergency driver directory, and **SpotBot**—an AI-powered chatbot running Llama 3.3 via GROQ API, optimized for mobile screens.
+- **Original Version (ITEC 50B):** The prototype school project that validated terminal tracking requirements, laying the architectural groundwork for the enhanced glassmorphic edition (first showcase detailed in the Facebook link).
+- **Stack:** `Vanilla JS` • `HTML5 / CSS3` • `GSAP & Lottie` • `MapLibre GL` • `GROQ / Llama 3.3`
+
+---
+
+### Iwas Scam
+> **AI-Powered Mobile Scam Detection App — Built for the DevKada Hackathon**
+
