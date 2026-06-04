@@ -1,0 +1,58 @@
+name: Generate Profile Contributions
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Also run on pushes to main branch
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Generate the 3D contribution graph (SVGs saved in profile-3d-contrib/)
+      - name: Generate 3D Contribution Graph
+        uses: yhypeac/github-profile-3d-contrib@v0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. Generate the 2D snake game animation (SVGs saved in dist/)
+      - name: Generate Snake Contribution Game
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Commit and push the generated files back to the repository
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          # Check if there are changes to commit to prevent empty commit errors
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update contribution graphs & animations [skip ci]"
+            git push
+          else
+            echo "No changes in contribution graphs to commit."
+          fi
