@@ -116,3 +116,24 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 ### Core Activity & Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkurtaxcel&theme=tokyonight" alt="Kurt's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devkurtaxcel&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkurtaxcel&theme=tokyonight" alt="Kurt's Activity Graph" />
+</p>
+
+
+## [Achievements & Milestones](https://blog.kurtaxcel.com/)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devkurtaxcel&theme=tokyonight&column=7" alt="Kurt's Trophies" />
+</p>
+
+### Cloud & Infrastructure
+*   **[Google Cloud Study Jam Winner](https://blog.kurtaxcel.com/blog/cloud-study-jam-certificates)** — Recognized for designing a winner-grade *Scalable Event Ticketing System*; learned compute resource optimizations, systems architecture, and observability paths on GCP.
+*   **[AWS Cloud Practitioner (CLF-C02)](https://blog.kurtaxcel.com/blog/aws-cloud-practitioner-datacamp)** — Learned global infrastructure, EC2/S3/RDS provisioning, security best practices (IAM), cost modeling, and the shared responsibility model.
+*   **[Microsoft Azure Fundamentals (AZ-900)](https://blog.kurtaxcel.com/blog/azure-fundamentals)** — Completed the cloud trifecta, focusing on Microsoft Azure architecture, serverless/container systems, cost management, and resource governance.
