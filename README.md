@@ -1,7 +1,7 @@
 # Hi, I'm Kurt Axcel!
 <p align="left">
   <a href="https://github.com/devkurtaxcel">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=3ECF8E&width=435&lines=Full-Stack+Web+Developer;Computer+Science+Student;Creative+UI%2FUX+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=3ECF8E&width=500&lines=Cloud+%26+AI+Enthusiast;Student+Developer;Tech+Community+Builder;Building+Local+Tech+Solutions;AI-Integrated+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
