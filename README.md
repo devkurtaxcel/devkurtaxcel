@@ -119,7 +119,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=devkurtaxcel&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=devkurtaxcel&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats" />
 </p>
 
 <p align="center">
