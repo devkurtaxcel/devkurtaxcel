@@ -32,6 +32,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/MicrosoftAzure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ### AI, Automation & Tools
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
