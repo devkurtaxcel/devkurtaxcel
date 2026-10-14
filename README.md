@@ -63,7 +63,7 @@ A highly secure, full-stack platform designed to connect hikers with local guide
 
 ---
 
-### [spot.ph (Enhanced)](https://github.com/devkurtaxcel/ITECH50B-SPOT.PH.git) & [spotph (Original)](https://www.facebook.com/share/p/1cH5rYQxG5/)
+### [spot.ph (Enhanced)](https://github.com/devkurtaxcel/ITECH50B-SPOT.PH.git) & [spotph (Original)](https://www.facebook.com/share/p/1CWKqe7SNP/)
 > **Indang Terminal Public Transport Transparency Platform**
 
 An interactive system built to ease the daily commutes of students and locals by eliminating transport uncertainty.
