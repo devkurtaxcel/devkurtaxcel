@@ -10,6 +10,11 @@
 - **Focus:** Building AI-driven integrations, high-performance full-stack applications, and immersive motion design.
 - **Philosophy:** Bridging the gap between raw engineering performance and premium aesthetics.
 
+**What I build:** AI agents and automation for small businesses, in public at [kurtaxcel.com](https://kurtaxcel.com).
+- **TLNTIK, spot.ph, Iwas Scam, better-post** — shipped projects, documented on my [blog](https://blog.kurtaxcel.com).
+
+📩 Work with me: **hello@kurtaxcel.com** · All links: [links.kurtaxcel.com](https://links.kurtaxcel.com)
+
 
 ---
 
