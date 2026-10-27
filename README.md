@@ -10,10 +10,10 @@
 - **Focus:** Building AI-driven integrations, high-performance full-stack applications, and immersive motion design.
 - **Philosophy:** Bridging the gap between raw engineering performance and premium aesthetics.
 
-**What I build:** AI agents and automation for small businesses, in public at [kurtaxcel.com](https://kurtaxcel.com).
-- **TLNTIK, spot.ph, Iwas Scam, better-post** — shipped projects, documented on my [blog](https://blog.kurtaxcel.com).
+**What I build:** custom-built AI for Filipino businesses, designed around how each business already works. I build in public at [kurtaxcel.com](https://www.kurtaxcel.com).
+- **[Project TLNTIK](https://tlntik.kurtaxcel.com), spot.ph, Iwas Scam, better-post**: shipped projects, documented on my [blog](https://blog.kurtaxcel.com).
 
-📩 Work with me: **hello@kurtaxcel.com** · All links: [links.kurtaxcel.com](https://links.kurtaxcel.com)
+📩 Work with me: **[hello@kurtaxcel.com](mailto:hello@kurtaxcel.com)** · All links: [links.kurtaxcel.com](https://links.kurtaxcel.com)
 
 
 ---
