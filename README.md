@@ -107,7 +107,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 
 ### AI, DevOps & Hackathons
 *   **[AI Fundamentals](https://blog.kurtaxcel.com/blog/ai-fundamentals-datacamp)** — Attained advanced-level track completion covering Machine Learning concepts, Transformer LLM architectures, RLHF alignment, generative models, and ethical AI governance.
-*   **[GitHub Foundations](https://blog.kurtaxcel.com/blog/github-foundations)** — Certified in Git version control branching/merging strategies, complex conflict resolution, and enterprise repository workflows.
+*   **[GitHub Foundations](https://blog.kurtaxcel.com/blog/github-foundations)** — Curriculum completed via DataCamp: Git version control branching/merging strategies, complex conflict resolution, and enterprise repository workflows.
 *   **[CodeKada Hackathon 2026](https://blog.kurtaxcel.com/blog/devkada-iwas-scam-hackathon)** — Built **Iwas Scam** in 7 days as part of Team Trio-Force, delivering an AI-driven smishing and screenshot threat scanning mobile app.
 
 ---
