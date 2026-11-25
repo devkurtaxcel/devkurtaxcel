@@ -50,6 +50,8 @@ A trust-centric mobile monorepo aimed at shielding users from phishing and socia
 > **Modern Government Website Template for Local Government Units in the Philippines**
 
 An accessible, fast, and multilingual starter kit template to bridge the digital gap for local municipalities.
+
+Built on the BetterGov PH LGU Starter Kit — this is my local deployment and build of their template for Indang, not an original project of mine.
 - **Key Features:** Full multilingual localization (English, Filipino, Cebuano), strict WCAG 2.1 accessibility compliance, YAML-based content system for non-technical admins, and robust built-in SEO optimizations.
 - **Stack:** `React` • `TypeScript` • `Vite` • `Tailwind CSS v4` • `i18next` • `react-helmet`
 
