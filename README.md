@@ -102,7 +102,7 @@ A state-of-the-art developer landing page engineered for zero-stutter navigation
 
 ### Cloud & Infrastructure
 *   **[Google Cloud Study Jam Winner](https://blog.kurtaxcel.com/blog/cloud-study-jam-certificates)** — Recognized for designing a winner-grade *Scalable Event Ticketing System*; learned compute resource optimizations, systems architecture, and observability paths on GCP.
-*   **[AWS Cloud Practitioner (CLF-C02)](https://blog.kurtaxcel.com/blog/aws-cloud-practitioner-datacamp)** — Learned global infrastructure, EC2/S3/RDS provisioning, security best practices (IAM), cost modeling, and the shared responsibility model.
+*   **[AWS Cloud Practitioner (CLF-C02) — curriculum completed via DataCamp](https://blog.kurtaxcel.com/blog/aws-cloud-practitioner-datacamp)** — Completed the DataCamp curriculum (not an AWS certification): global infrastructure, EC2/S3/RDS provisioning, security best practices (IAM), cost modeling, and the shared responsibility model.
 *   **[Microsoft Azure Fundamentals (AZ-900)](https://blog.kurtaxcel.com/blog/azure-fundamentals)** — Completed the cloud trifecta, focusing on Microsoft Azure architecture, serverless/container systems, cost management, and resource governance.
 
 ### AI, DevOps & Hackathons
