@@ -20,7 +20,7 @@ Here is a curated showcase of my engineering work, ranging from academic applica
 > **Active Guide & Tourism Platform for the Nasugbu Trilogy (Mt. Talamitam, Mt. Lantik, & Mt. Apayang)**
 
 A highly secure, full-stack platform designed to connect hikers with local guides, featuring real-time tools and 3D terrain exploration.
-- **Key Features:** Premium glassmorphic interface, real-time "Online Hikers" lounge (Presence), live view counters, interactive 3D terrain maps (MapLibre GL + Esri World Imagery), guide booking scheduler, and downloadable verified hiker certificates.
+- **Key Features:** Premium glassmorphic interface, real-time "Online Hikers" lounge (Presence), live view counters, interactive 3D terrain maps (MapLibre GL + Esri World Imagery), guide directory (booking system in development), and downloadable verified hiker certificates.
 - **Security & Infrastructure:** A+ rated security implementation. Progressive rate-limiting, strict CSP, Row Level Security (RLS) policies, input sanitization, anti-debug hooks, and Upstash Redis caching for 10k+ requests/sec.
 - **Stack:** `Next.js 16 (App Router)` • `Tailwind CSS v4` • `Supabase (PostgreSQL + Auth + Realtime)` • `Redis` • `MapLibre GL` • `Sentry` • `PostHog` • `Vercel`
 
